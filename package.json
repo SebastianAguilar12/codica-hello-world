@@ -4,6 +4,7 @@
   },
   "name": "codica",
   "description": "",
+  "keywords": ["Hello", "codica", "world"],
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
@@ -14,7 +15,11 @@
     "type": "git",
     "url": "git+https://github.com/SebastianAguilar12/codica-hello-world.git"
   },
-  "author": "",
+  "author": {
+    "name": "SebastianAguilar12",
+    "email": "sebas09981@gmail.com",
+    "url": "https://www.linkedin.com/in/sebastian-andres-aguilar-obregon-a4b388107/"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SebastianAguilar12/codica-hello-world/issues"
