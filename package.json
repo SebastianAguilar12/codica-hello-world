@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "debug": "^4.3.7",
-    "lodash": "^4.17.21"
+    "hexo": "^7.3.0",
+    "lodash": "^4.17.21",
+    "sloc": "^0.3.2"
   },
   "name": "codica-hello-world",
   "description": "",
