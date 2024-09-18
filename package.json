@@ -2,16 +2,12 @@
   "dependencies": {
     "lodash": "^4.17.21"
   },
-  "name": "codica",
-  "description": "My first js project",
-  "keywords": [
-    "Hello",
-    "codica",
-    "world"
-  ],
-  "type": "module",
+  "name": "codica-hello-world",
+  "description": "",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
