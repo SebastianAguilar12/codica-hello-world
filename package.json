@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "debug": "^4.3.7",
+    "debug": "^4.4.0",
     "hexo": "^7.3.0",
     "jets": "^0.15.0",
     "lodash": "^4.17.21",
