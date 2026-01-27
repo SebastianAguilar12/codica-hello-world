@@ -3,7 +3,7 @@
     "debug": "^4.3.7",
     "hexo": "^7.3.0",
     "jets": "^0.15.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "sloc": "^0.3.2"
   },
   "name": "codica-hello-world",
